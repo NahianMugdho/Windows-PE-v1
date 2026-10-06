@@ -1,0 +1,14 @@
+D:\mugdho\RUST\Test\windows PE final 1 -9 - Copy - Copy\target\release\deps\serde-84589b1ca434edc1.d: C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs D:\mugdho\RUST\Test\windows\ PE\ final\ 1\ -9\ -\ Copy\ -\ Copy\target\release\build\serde-068c76c144efdb9b\out/private.rs
+
+D:\mugdho\RUST\Test\windows PE final 1 -9 - Copy - Copy\target\release\deps\libserde-84589b1ca434edc1.rlib: C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs D:\mugdho\RUST\Test\windows\ PE\ final\ 1\ -9\ -\ Copy\ -\ Copy\target\release\build\serde-068c76c144efdb9b\out/private.rs
+
+D:\mugdho\RUST\Test\windows PE final 1 -9 - Copy - Copy\target\release\deps\libserde-84589b1ca434edc1.rmeta: C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs D:\mugdho\RUST\Test\windows\ PE\ final\ 1\ -9\ -\ Copy\ -\ Copy\target\release\build\serde-068c76c144efdb9b\out/private.rs
+
+C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs:
+C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs:
+C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs:
+C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs:
+C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs:
+D:\mugdho\RUST\Test\windows\ PE\ final\ 1\ -9\ -\ Copy\ -\ Copy\target\release\build\serde-068c76c144efdb9b\out/private.rs:
+
+# env-dep:OUT_DIR=D:\\mugdho\\RUST\\Test\\windows PE final 1 -9 - Copy - Copy\\target\\release\\build\\serde-068c76c144efdb9b\\out

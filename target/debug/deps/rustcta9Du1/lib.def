@@ -1,0 +1,4 @@
+LIBRARY
+EXPORTS
+  __rustc_proc_macro_decls_1ec7060693784e43__ DATA
+  rust_metadata_yoke_derive_1ec7060693784e43 DATA

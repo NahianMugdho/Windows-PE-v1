@@ -1,0 +1,11 @@
+D:\mugdho\RUST\Test\windows PE final 1 -9 - Copy - Copy\target\debug\deps\winreg-541676f1834cd76c.d: C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winreg-0.52.0\src\lib.rs C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winreg-0.52.0\src\common.rs C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winreg-0.52.0\src\enums.rs C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winreg-0.52.0\src\reg_key.rs C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winreg-0.52.0\src\reg_key_metadata.rs C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winreg-0.52.0\src\reg_value.rs C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winreg-0.52.0\src\types.rs
+
+D:\mugdho\RUST\Test\windows PE final 1 -9 - Copy - Copy\target\debug\deps\libwinreg-541676f1834cd76c.rmeta: C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winreg-0.52.0\src\lib.rs C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winreg-0.52.0\src\common.rs C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winreg-0.52.0\src\enums.rs C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winreg-0.52.0\src\reg_key.rs C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winreg-0.52.0\src\reg_key_metadata.rs C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winreg-0.52.0\src\reg_value.rs C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winreg-0.52.0\src\types.rs
+
+C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winreg-0.52.0\src\lib.rs:
+C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winreg-0.52.0\src\common.rs:
+C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winreg-0.52.0\src\enums.rs:
+C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winreg-0.52.0\src\reg_key.rs:
+C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winreg-0.52.0\src\reg_key_metadata.rs:
+C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winreg-0.52.0\src\reg_value.rs:
+C:\Users\nahia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\winreg-0.52.0\src\types.rs:
