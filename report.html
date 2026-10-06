@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Enterprise Scan Report</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 30px; background: #f8f9fa; }
+        h1 { color: #1a73e8; }
+        .card { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-bottom: 20px; }
+        table { border-collapse: collapse; width: 100%; }
+        th, td { border: 1px solid #dee2e6; padding: 12px; text-align: left; }
+        th { background: #e9ecef; }
+    </style>
+</head>
+<body>
+    <h1>Diagnostic Report</h1>
+    <div class="card">
+        <h2>Summary</h2>
+        <p><strong>Scan Time:</strong> 2026-07-28 11:41:03</p>
+        <p><strong>Risk Level:</strong> 🔴 HIGH RISK</p>
+        <p><strong>Risk Score:</strong> 100/100</p>
+        <p><strong>Status:</strong> NOT READY FOR RENTAL / RESALE</p>
+        <p><strong>Recommendation:</strong> Action required before deployment/sale:
+- Deregister device serial number from Tenant Autopilot deployment.
+</p>
+    </div>
+    <div class="card">
+        <h2>Hardware & System Details</h2>
+        <table>
+            <tr><th>Computer Name</th><td>MUGDHO</td></tr>
+            <tr><th>CPU Usage</th><td>16.32%</td></tr>
+            <tr><th>Memory Usage</th><td>79.15%</td></tr>
+            <tr><th>Serial Number</th><td>SN-85DF5</td></tr>
+            <tr><th>UUID</th><td>{6bb4e1dd-bc19-c84d-861f-d6a301585df5}</td></tr>
+            <tr><th>Azure AD Joined</th><td>false</td></tr>
+            <tr><th>TPM Available</th><td>true</td></tr>
+        </table>
+    </div>
+    <div class="card">
+        <h2>Intune & Autopilot Status</h2>
+        <table>
+            <tr><th>Autopilot Registry</th><td>true</td></tr>
+            <tr><th>Enrollment Registry</th><td>true</td></tr>
+            <tr><th>Intune Enrolled</th><td>false</td></tr>
+            <tr><th>MDM Certificate</th><td>false</td></tr>
+        </table>
+    </div>
+    <div class="card">
+        <h2>Graph API / Tenant Information</h2>
+        <table>
+            <tr><th>Tenant ID</th><td>N/A (Offline Scan)</td></tr>
+            <tr><th>Tenant Metadata</th><td>N/A (Offline Scan)</td></tr>
+            <tr><th>Tenant Status</th><td>Offline / Unchecked</td></tr>
+            <tr><th>Authenticated</th><td>false</td></tr>
+        </table>
+    </div>
+</body>
+</html>

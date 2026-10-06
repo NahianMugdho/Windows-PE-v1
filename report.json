@@ -1,0 +1,38 @@
+{
+  "scan_time": "2026-07-28 11:41:03",
+  "hardware": {
+    "computer_name": "MUGDHO",
+    "serial_number": "SN-85DF5",
+    "uuid": "{6bb4e1dd-bc19-c84d-861f-d6a301585df5}",
+    "tpm_available": true,
+    "azure_joined": false,
+    "cpu_usage": 16.323761,
+    "memory_usage": 79.14711
+  },
+  "intune": {
+    "registry_found": true,
+    "mdm_certificate": false,
+    "enrollment_found": false,
+    "mdm_status": false
+  },
+  "autopilot": {
+    "registry_found": true,
+    "json_xml_file_found": false,
+    "csp_data_found": false,
+    "residual_metadata": true
+  },
+  "graph_api": {
+    "authenticated": false,
+    "access_token_present": false,
+    "device_found_in_tenant": false,
+    "tenant_id": "N/A (Offline Scan)",
+    "tenant_metadata": "N/A (Offline Scan)",
+    "tenant_status": "Offline / Unchecked"
+  },
+  "assessment": {
+    "risk_score": 100,
+    "risk_level": "🔴 HIGH RISK",
+    "status": "NOT READY FOR RENTAL / RESALE",
+    "recommendation": "Action required before deployment/sale:\n- Deregister device serial number from Tenant Autopilot deployment.\n"
+  }
+}
